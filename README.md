@@ -13,7 +13,7 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
    (Nobody is sure yet.)
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. The scientist bellowed a crucial revelation, yet not a soul recorded it.  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
    <!-- ![treasure chest](img2.png) -->
