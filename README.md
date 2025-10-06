@@ -16,13 +16,15 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 3. The scientist bellowed a crucial revelation, yet not a soul recorded it.  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   <!-- ![treasure chest](img2.png) -->
-   ![alt text](img/treasure_large.png)
+   ![treasure chest](img2.png)
 
-5. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+5. Inside the chest was a map... with no directions, just a smiley face and a coffee stain.
+(The coffee stain may or may not be important.) ![map](img\map.png)
 
-6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
+6. Suddenly, a pirate jumped out from nowhere and yelled:
+
+“Let’s go to space!”
+Everyone agreed, despite never having met him before. ![map](img\pirate.png) 
 
 7. A rocket blasted off, but at the same time the **time machine** broke down.  
 
@@ -32,3 +34,4 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
    (What did they find?)  
 
 10. The ending… well, we don’t really have one. Please fix this.
+
