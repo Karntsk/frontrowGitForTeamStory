@@ -23,9 +23,11 @@ Your mission: **revise and improve it**, making it coherent, funny, and illustra
 
 6. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. A rocket blasted off, but at the same time the **time machine** broke down,twisting time and space together into a swirling vortex.
+![time machine](./img/rocket.png)
+8. The cat was supposed to talk here, The cat said "We have to walk through the forest to reach the exit door."
 
-8. The cat was supposed to talk here, but the line is missing.  
+![cat](./img/cat.png)
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
